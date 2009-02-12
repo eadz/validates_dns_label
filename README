@@ -1,0 +1,3 @@
+Validates a DNS label
+usage
+validates_dns_label :origin
