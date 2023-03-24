@@ -1,3 +1,5 @@
+Edit: Rails plugin I made 15 years ago. Needs a good rework and tests!
+
 Validates a DNS label
 usage
 validates_dns_label :origin
